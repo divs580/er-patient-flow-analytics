@@ -8,7 +8,7 @@
 Evaluated clinical throughput, triage prioritization, physician efficiency, and revenue realization across **10,000 emergency department patient encounters** ($44.68M billed gross revenue) to diagnose systemic wait-time bottlenecks and reduce care abandonment walkouts.
 
 ### 📄 Project Deliverables
-* [📊 Interactive Tableau Dashboard (Live)]([https://public.tableau.com](https://public.tableau.com/views/Ed_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
+* [📊 Interactive Tableau Dashboard (Live)]([https://public.tableau.com/views/Ed_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link])
 * [📑 Executive Case Study Report (PDF)](./ed_analysis_report.pdf)
 * [💻 Analytical SQL Scripts](./sql/ed_patient_analysis.sql)
 * [📓 Python EDA & Regression Pipeline](./Ed_patient_data_analysis.ipynb)
