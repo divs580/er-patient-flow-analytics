@@ -12,7 +12,7 @@ Evaluated clinical throughput, triage prioritization, physician efficiency, and 
 * [📑 Executive Case Study Report (PDF)](./ed_analysis_report.pdf)
 * [💻 Analytical SQL Scripts](./sql/02_analysis_queries.sql)
 * [📓 Python EDA & Regression Pipeline](./ed_patient_data_analysis.ipynb)
-* [📦 Packaged Tableau Workbook](./ed_dashboard.twbx)
+* [📦 Packaged Tableau Workbook](https://public.tableau.com/views/Ed_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 🔑 Key Operational Benchmarks
 | Metric | Value | Operational Context |
