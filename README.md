@@ -10,7 +10,7 @@ Evaluated clinical throughput, triage prioritization, physician efficiency, and 
 ### 📄 Project Deliverables
 * [📊 Interactive Tableau Dashboard (Live)](https://public.tableau.com/app/profile/divya.kanani/viz/Ed_dashboard/Dashboard1)
 * [📑 Executive Case Study Report (PDF)](./ed_analysis_report.pdf)
-* [💻 Analytical SQL Scripts](./sql/ed_patient_analysis.sql)
+* [💻 Analytical SQL Scripts](./sql/02_analysis_queries.sql)
 * [📓 Python EDA & Regression Pipeline](./Ed_patient_data_analysis.ipynb)
 * [📦 Packaged Tableau Workbook](./ed_dashboard.twbx)
 
