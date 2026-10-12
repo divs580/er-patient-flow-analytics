@@ -92,7 +92,7 @@ ORDER BY department, doc_avg_wait_min ASC;
 ├── README.md                          <-- Project overview, findings, and strategic impact
 ├── ed_analysis_report.pdf             <-- Executive Case Study Report (PDF)
 ├── ed_patient_data_analysis.ipynb     <-- Cleaning, EDA, feature engineering & visualizations
-├── dashboard.png                      <-- Tableau executive dashboard preview
+├── ed_analysis_dashboard.png                      <-- Tableau executive dashboard preview
 ├── ed_dashboard.twbx                  <-- Packaged Tableau workbook
 └── sql/
     └── ed_patient_analysis.sql        <-- Table DDL, operational KPIs, and window functions
