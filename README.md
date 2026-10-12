@@ -30,7 +30,7 @@ Evaluated clinical throughput, triage prioritization, physician efficiency, and 
 ## 📊 Interactive Tableau Dashboard
 👉 [**Click here to view the live dashboard on Tableau Public**](https://public.tableau.com/app/profile/divya.kanani/viz/Ed_dashboard/Dashboard1)
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](ed_analysis_dashboard.png)
 
 ---
 
