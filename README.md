@@ -10,7 +10,8 @@ Evaluated clinical throughput, triage prioritization, physician efficiency, and 
 ### 📄 Project Deliverables
 * [📊 Interactive Tableau Dashboard (Live)](https://public.tableau.com/app/profile/divya.kanani/viz/Ed_dashboard/Dashboard1)
 * [📑 Executive Case Study Report (PDF)](./ed_analysis_report.pdf)
-* [💻 Analytical SQL Scripts](./sql/02_analysis_queries.sql)
+* [💻 Relational Schema DDL](./sql/01_schema_ddl.sql)
+* [💻 Analytical SQL Scripts & Window Functions](./sql/02_analysis_queries.sql)
 * [📓 Python EDA & Regression Pipeline](./ed_patient_data_analysis.ipynb)
 * [📦 Packaged Tableau Workbook](https://public.tableau.com/views/Ed_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -95,6 +96,8 @@ ORDER BY department, doc_avg_wait_min ASC;
 ├── ed_analysis_dashboard.png                      <-- Tableau executive dashboard preview
 ├── ed_dashboard.twbx                  <-- Packaged Tableau workbook
 └── sql/
-    └── ed_patient_analysis.sql        <-- Table DDL, operational KPIs, and window functions
+    ├── 01_schema_ddl.sql              <-- Relational schema DDL with CHECK rules
+    └── 02_analysis_queries.sql        <-- Operational KPIs and window function queries
+
 ```
 
