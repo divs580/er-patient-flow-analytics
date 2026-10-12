@@ -91,7 +91,7 @@ ORDER BY department, doc_avg_wait_min ASC;
 ```text
 ├── README.md                          <-- Project overview, findings, and strategic impact
 ├── ed_analysis_report.pdf             <-- Executive Case Study Report (PDF)
-├── Ed_patient_data_analysis.ipynb     <-- Cleaning, EDA, feature engineering & visualizations
+├── ed_patient_data_analysis.ipynb     <-- Cleaning, EDA, feature engineering & visualizations
 ├── dashboard.png                      <-- Tableau executive dashboard preview
 ├── ed_dashboard.twbx                  <-- Packaged Tableau workbook
 └── sql/
